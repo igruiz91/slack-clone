@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Login View
+![](./images/login.png)
+
+## Main View
+![](./images/main.png)
 
 ## Available Scripts
 
